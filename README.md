@@ -1,1 +1,2 @@
-# Pizza_Vending_Machine
+# Pizza Vending Machine
+-Final project for programming 1 class
