@@ -1,2 +1,2 @@
 # Pizza Vending Machine
--Final project for programming 1 class
+-Final project for ccprog1
